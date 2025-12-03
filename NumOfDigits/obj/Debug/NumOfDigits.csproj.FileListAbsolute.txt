@@ -1,0 +1,7 @@
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.exe.config
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.exe
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\bin\Debug\NumOfDigits.pdb
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.csproj.AssemblyReference.cache
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.exe
+D:\Projects\Programming\C#\DotNetFrameWork\Console\Algorithms\NumOfDigits\NumOfDigits\obj\Debug\NumOfDigits.pdb
