@@ -1,3 +1,5 @@
+NumOfDigits. C# Tutorials. DotNet Framework Platform. Algorithms. Simple Input/Output. Console Application.
+
 A console application project written in the C# programming language and implemented in the Microsoft Visual Studio integrated environment. The .Net FrameWork platform provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 
 The program does the following:
@@ -11,4 +13,4 @@ a positive value equal in magnitude to the number entered from the keyboard.
   c) The digit counter variable is incremented by one.
 5. The entered number and the number of its digits are displayed on the screen.
 
-Занятия по C#. Платформа DotNet Framework. Простой Ввод/вывод. Алгоритмы. Консольное приложение.
+NumOfDigits. Занятия по C#. Платформа DotNet Framework. Простой Ввод/вывод. Алгоритмы. Консольное приложение.
